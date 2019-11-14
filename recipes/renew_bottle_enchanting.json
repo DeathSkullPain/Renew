@@ -1,0 +1,26 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "renew:bottle_enchanting"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:potion",
+				"data": 3
+			},
+			{
+				"item": "minecraft:gold_ingot"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:experience_bottle"
+			}
+		]
+	}
+}

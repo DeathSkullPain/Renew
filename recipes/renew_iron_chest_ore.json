@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:iron_chest_ore"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#XX",
+			"XXX",
+			"XXX"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:iron_chestplate"
+			},
+			"X": {
+				"item": "minecraft:cobblestone"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:iron_ore",
+				"count": 8
+			}
+		]
+	}
+}

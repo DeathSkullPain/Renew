@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:gold_legs_ore"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#XX",
+			"XXX",
+			"XX"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:golden_leggings"
+			},
+			"X": {
+				"item": "minecraft:cobblestone"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:gold_ore",
+				"count": 7
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:cobweb"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"#X#",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:string"
+			},
+			"X": {
+				"item": "minecraft:slime_ball"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:web",
+				"count": 4
+			}
+		]
+	}
+}

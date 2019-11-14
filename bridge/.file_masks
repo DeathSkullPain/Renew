@@ -1,0 +1,44 @@
+{
+	"BP/recipes/renew_soulsand.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_wool_to_string.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_cobweb.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_beetroot_to_redstone.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_gunpowder.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_sponge.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_mending.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_bottle_enchanting.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_black_dye.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_ink_sack.json": {
+		"data": {}
+	},
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_head_skeleton.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_magmablock.json": {
+		"data": {}
+	},
+	"BP/recipes/renew_redsand.json": {
+		"data": {}
+	}
+}

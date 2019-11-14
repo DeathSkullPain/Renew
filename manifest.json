@@ -1,0 +1,30 @@
+//bridge-file-version: #3
+{
+	"format_version": 2,
+	"header": {
+		"description": "Renew: Renewable non-renewable resources [Beta 1.0.7]",
+		"name": "RenewB007",
+		"uuid": "1bd7bdba-ff72-11e9-8d71-362b9e155667",
+		"version": [
+			1,
+			0,
+			7
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "1bd7c01c-ff72-11e9-8d71-362b9e155667",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

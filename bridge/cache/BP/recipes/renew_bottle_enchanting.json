@@ -1,0 +1,118 @@
+{
+	"file_path": "C:\\Users\\Patrick\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Renew\\recipes\\renew_bottle_enchanting.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "1c6972a8_9316_42c6_bdaf_e1bdaa03723f",
+	"file_version": 0,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "1.12.0",
+				"key": "format_version",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "minecraft:recipe_brewing_mix",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "description",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "renew:bottle_enchanting",
+								"key": "identifier",
+								"type": "string",
+								"meta": {
+									"is_value": true
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "tags",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "brewing_stand",
+								"key": "0",
+								"type": "string",
+								"meta": {},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "minecraft:potion_type:thick",
+						"key": "input",
+						"type": "string",
+						"meta": {
+							"definitions": [
+								"block",
+								"item"
+							]
+						},
+						"children": []
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "minecraft:gold_ingot",
+						"key": "reagent",
+						"type": "string",
+						"meta": {
+							"definitions": [
+								"block",
+								"item"
+							]
+						},
+						"children": []
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "minecraft:experience_bottle",
+						"key": "output",
+						"type": "string",
+						"meta": {
+							"definitions": [
+								"block",
+								"item"
+							]
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+}
