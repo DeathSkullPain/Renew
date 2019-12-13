@@ -1,0 +1,29 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:shulker_shell"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XXX",
+			"XEX"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:turtle_helmet"
+			},
+			"E": {
+				"item": "minecraft:ender_pearl"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:shulker_shell"
+			}
+		]
+	}
+}

@@ -1,4 +1,4 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": "1.12.0",
 	"minecraft:recipe_shaped": {
@@ -21,7 +21,8 @@
 				"item": "minecraft:egg"
 			},
 			"R": {
-				"item": "minecraft:bone"
+				"item": "minecraft:skull",
+				"data": 0
 			}
 		},
 		"result": [

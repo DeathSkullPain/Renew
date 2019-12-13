@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:blazerod"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XXX",
+			"XYX",
+			"XXX"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:blaze_powder"
+			},
+			"Y": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:blaze_rod"
+			}
+		]
+	}
+}

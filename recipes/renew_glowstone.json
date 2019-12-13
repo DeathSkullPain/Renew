@@ -1,0 +1,26 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "renew:glowstone"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:redstone"
+			},
+			{
+				"item": "minecraft:sugar"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:glowstone_dust",
+				"count": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,30 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:membrane"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XXX",
+			"XYX",
+			"XXX"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:web"
+			},
+			"Y": {
+				"item": "minecraft:rabbit_hide"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:phantom_membrane"
+			}
+		]
+	}
+}

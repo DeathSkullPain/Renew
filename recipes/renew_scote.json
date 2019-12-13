@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "renew:scote"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XXX",
+			"XXX",
+			"XXX"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:rabbit_hide"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:turtle_shell_piece"
+			}
+		]
+	}
+}

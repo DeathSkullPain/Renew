@@ -1,0 +1,25 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "renew:slimeball"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sugar"
+			},
+			{
+				"item": "minecraft:clay_ball"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:slime_ball"
+			}
+		]
+	}
+}

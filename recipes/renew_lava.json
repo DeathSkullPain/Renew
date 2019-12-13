@@ -1,26 +1,28 @@
-//bridge-file-version: #3
+//bridge-file-version: #4
 {
 	"format_version": "1.12.0",
 	"minecraft:recipe_shapeless": {
 		"description": {
-			"identifier": "renew:magmablock"
+			"identifier": "renew:lava"
 		},
 		"tags": [
 			"crafting_table"
 		],
 		"ingredients": [
 			{
-				"item": "minecraft:bucket",
-				"data": 10
+				"item": "minecraft:bucket"
 			},
 			{
 				"item": "minecraft:cobblestone"
+			},
+			{
+				"item": "minecraft:coal_block"
 			}
 		],
 		"result": [
 			{
-				"item": "minecraft:magma",
-				"count": 2
+				"item": "minecraft:bucket",
+				"data": 10
 			}
 		]
 	}

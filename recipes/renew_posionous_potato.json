@@ -1,0 +1,25 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.13.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "renew:posionous_potato"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:pufferfish"
+			},
+			{
+				"item": "minecraft:potato"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:poisonous_potato"
+			}
+		]
+	}
+}

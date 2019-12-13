@@ -2,13 +2,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "Renew: Renewable non-renewable resources [Beta 1.0.7]",
-		"name": "RenewB007",
+		"description": "Renew: Renewable non-renewable resources [Beta 1.0.12]",
+		"name": "RenewB12",
 		"uuid": "1bd7bdba-ff72-11e9-8d71-362b9e155667",
 		"version": [
 			1,
 			0,
-			7
+			12
 		],
 		"min_engine_version": [
 			1,
@@ -23,7 +23,7 @@
 			"version": [
 				1,
 				0,
-				0
+				12
 			]
 		}
 	]
